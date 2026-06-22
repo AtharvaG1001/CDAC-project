@@ -1,0 +1,162 @@
+[
+  {
+    "id": "p001", "name": "Ultra Pro Laptop 15\"", "category": "electronics",
+    "price": 89999, "originalPrice": 109999, "rating": 4.5, "reviews": 324,
+    "stock": 12, "badge": "Best Seller",
+    "description": "Powerful 15-inch laptop with Intel Core i7, 16GB RAM, 512GB SSD, and a stunning 4K display. Perfect for professionals and creators.",
+    "features": ["Intel Core i7-12th Gen", "16GB DDR5 RAM", "512GB NVMe SSD", "4K IPS Display", "15-hour battery"],
+    "color": "#6366f1"
+  },
+  {
+    "id": "p002", "name": "Wireless Noise-Cancel Headphones", "category": "electronics",
+    "price": 14999, "originalPrice": 19999, "rating": 4.7, "reviews": 892,
+    "stock": 45, "badge": "Top Rated",
+    "description": "Industry-leading noise cancellation with 30-hour battery life. Premium sound for audiophiles on the go.",
+    "features": ["Active Noise Cancellation", "30-hr Battery", "Bluetooth 5.3", "Foldable Design", "Voice Assistant"],
+    "color": "#8b5cf6"
+  },
+  {
+    "id": "p003", "name": "4K AMOLED Smartwatch", "category": "electronics",
+    "price": 24999, "originalPrice": 29999, "rating": 4.6, "reviews": 512,
+    "stock": 30, "badge": "New",
+    "description": "Track your health, fitness, and stay connected with this feature-packed smartwatch with always-on display.",
+    "features": ["AMOLED Always-On", "Health Monitoring", "GPS Built-in", "7-day Battery", "50m Water Resistant"],
+    "color": "#0ea5e9"
+  },
+  {
+    "id": "p004", "name": "Mechanical Gaming Keyboard", "category": "electronics",
+    "price": 7999, "originalPrice": 9999, "rating": 4.4, "reviews": 267,
+    "stock": 20, "badge": "",
+    "description": "RGB backlit full-size mechanical keyboard with Cherry MX switches for ultimate gaming precision.",
+    "features": ["Cherry MX Red", "RGB Per-Key", "Anti-Ghosting", "USB-C Detachable", "N-Key Rollover"],
+    "color": "#ef4444"
+  },
+  {
+    "id": "p005", "name": "Designer Silk Kurta Set", "category": "fashion",
+    "price": 3499, "originalPrice": 4999, "rating": 4.3, "reviews": 178,
+    "stock": 60, "badge": "Trending",
+    "description": "Luxurious pure silk kurta with intricate embroidery. Perfect for festive occasions and formal events.",
+    "features": ["Pure Silk", "Hand Embroidered", "Comes with Dupatta", "Dry Clean Only", "Sizes XS-XXL"],
+    "color": "#f59e0b"
+  },
+  {
+    "id": "p006", "name": "Premium Leather Sneakers", "category": "fashion",
+    "price": 4999, "originalPrice": 6499, "rating": 4.5, "reviews": 445,
+    "stock": 35, "badge": "",
+    "description": "Handcrafted genuine leather sneakers with memory foam insole. Style meets comfort for everyday wear.",
+    "features": ["Genuine Leather", "Memory Foam Insole", "Rubber Outsole", "Sizes 6-12", "Hand Stitched"],
+    "color": "#92400e"
+  },
+  {
+    "id": "p007", "name": "Elegant Wristwatch - Gold", "category": "fashion",
+    "price": 12999, "originalPrice": 15999, "rating": 4.8, "reviews": 203,
+    "stock": 15, "badge": "Luxury",
+    "description": "Swiss-inspired quartz movement in a stunning gold stainless steel case. Timeless elegance for every occasion.",
+    "features": ["Swiss Quartz", "316L Steel", "Sapphire Crystal", "50m WR", "2-year Warranty"],
+    "color": "#d97706"
+  },
+  {
+    "id": "p008", "name": "Smart Air Purifier Pro", "category": "home",
+    "price": 18999, "originalPrice": 22999, "rating": 4.6, "reviews": 391,
+    "stock": 18, "badge": "Best Seller",
+    "description": "HEPA H13 filter removes 99.97% of pollutants. Smart sensor auto-adjusts fan speed. App-controlled.",
+    "features": ["HEPA H13 Filter", "PM2.5 Sensor", "WiFi + App", "Ultra Quiet 22dB", "600 sq.ft Coverage"],
+    "color": "#10b981"
+  },
+  {
+    "id": "p009", "name": "Minimalist Coffee Table", "category": "home",
+    "price": 9499, "originalPrice": 12000, "rating": 4.2, "reviews": 88,
+    "stock": 8, "badge": "",
+    "description": "Scandinavian-inspired solid wood coffee table with a tempered glass top. Elevate your living space.",
+    "features": ["Solid Walnut Wood", "Tempered Glass", "Easy Assembly", "4 legs", "Max 80kg Load"],
+    "color": "#78716c"
+  },
+  {
+    "id": "p010", "name": "Chef's Pro Knife Set (8-Pc)", "category": "home",
+    "price": 5999, "originalPrice": 8500, "rating": 4.9, "reviews": 634,
+    "stock": 25, "badge": "Top Rated",
+    "description": "Professional-grade German stainless steel knife set. Razor-sharp edges for precision cutting every time.",
+    "features": ["German Steel", "Full Tang", "Ergonomic Handles", "8-Piece Set", "Dishwasher Safe"],
+    "color": "#6b7280"
+  },
+  {
+    "id": "p011", "name": "Pro Yoga Mat (6mm Extra Thick)", "category": "sports",
+    "price": 1999, "originalPrice": 2999, "rating": 4.4, "reviews": 721,
+    "stock": 100, "badge": "",
+    "description": "Non-slip, eco-friendly TPE yoga mat with alignment lines. Perfect for yoga, pilates, and home workouts.",
+    "features": ["6mm Thick TPE", "Non-Slip Surface", "Alignment Lines", "Carry Strap Included", "183x61cm"],
+    "color": "#8b5cf6"
+  },
+  {
+    "id": "p012", "name": "Adjustable Dumbbell Set 5-50kg", "category": "sports",
+    "price": 34999, "originalPrice": 42000, "rating": 4.7, "reviews": 289,
+    "stock": 10, "badge": "Heavy Discount",
+    "description": "Space-saving adjustable dumbbell replacing 15 pairs. Quick-change dial system from 5kg to 50kg.",
+    "features": ["5-50kg Range", "Dial Adjust", "Anti-Roll Base", "Durable Steel", "2-year Warranty"],
+    "color": "#374151"
+  },
+  {
+    "id": "p013", "name": "Carbon Fiber Badminton Racket", "category": "sports",
+    "price": 3499, "originalPrice": 4500, "rating": 4.5, "reviews": 156,
+    "stock": 40, "badge": "",
+    "description": "Professional carbon fiber racket with 30-lbs strung tension. Lightweight yet powerful for competitive play.",
+    "features": ["Full Carbon Fiber", "30lbs String Tension", "Light 85g Weight", "Includes Bag", "ISO Certified"],
+    "color": "#dc2626"
+  },
+  {
+    "id": "p014", "name": "Atomic Habits – James Clear", "category": "books",
+    "price": 499, "originalPrice": 799, "rating": 4.9, "reviews": 4521,
+    "stock": 200, "badge": "#1 Bestseller",
+    "description": "The ultimate guide to building good habits and breaking bad ones. Over 10 million copies sold worldwide.",
+    "features": ["Paperback 320 pages", "Language: English", "Publisher: Penguin", "ISBN: 978-0735211292", "Free Bookmark"],
+    "color": "#f59e0b"
+  },
+  {
+    "id": "p015", "name": "Deep Work – Cal Newport", "category": "books",
+    "price": 399, "originalPrice": 649, "rating": 4.7, "reviews": 2103,
+    "stock": 150, "badge": "",
+    "description": "Rules for focused success in a distracted world. A must-read for knowledge workers in the digital age.",
+    "features": ["Paperback 296 pages", "Language: English", "Publisher: Piatkus", "ISBN: 978-0349411903", "Free Bookmark"],
+    "color": "#1e3a5f"
+  },
+  {
+    "id": "p016", "name": "Vitamin C Brightening Serum", "category": "beauty",
+    "price": 1299, "originalPrice": 1799, "rating": 4.6, "reviews": 876,
+    "stock": 80, "badge": "Trending",
+    "description": "20% Vitamin C + Hyaluronic Acid + Niacinamide serum for glowing, even-toned skin. Dermatologist tested.",
+    "features": ["20% Vitamin C", "Hyaluronic Acid", "Niacinamide", "Dermatologist Tested", "30ml"],
+    "color": "#fbbf24"
+  },
+  {
+    "id": "p017", "name": "Retinol Night Repair Cream", "category": "beauty",
+    "price": 1599, "originalPrice": 2199, "rating": 4.5, "reviews": 512,
+    "stock": 55, "badge": "",
+    "description": "Advanced retinol 0.5% formula with peptides reduces fine lines and wrinkles overnight. For all skin types.",
+    "features": ["0.5% Retinol", "Peptide Complex", "Moisturizing", "50g", "Cruelty Free"],
+    "color": "#7c3aed"
+  },
+  {
+    "id": "p018", "name": "Wireless Bluetooth Speaker", "category": "electronics",
+    "price": 3999, "originalPrice": 5499, "rating": 4.4, "reviews": 634,
+    "stock": 50, "badge": "",
+    "description": "360° immersive sound in a compact, waterproof body. 24-hour battery for non-stop music everywhere.",
+    "features": ["360° Sound", "IPX7 Waterproof", "24-hr Battery", "Bluetooth 5.0", "Built-in Mic"],
+    "color": "#0ea5e9"
+  },
+  {
+    "id": "p019", "name": "Resistance Bands Set (5 Levels)", "category": "sports",
+    "price": 899, "originalPrice": 1299, "rating": 4.6, "reviews": 1023,
+    "stock": 120, "badge": "Hot Deal",
+    "description": "Set of 5 resistance bands from 10-50lbs for full-body strength training at home or gym.",
+    "features": ["5 Resistance Levels", "Natural Latex", "10-50 lbs", "Travel Bag Included", "Lifetime Warranty"],
+    "color": "#10b981"
+  },
+  {
+    "id": "p020", "name": "Aromatherapy Diffuser + Essential Oils", "category": "home",
+    "price": 2499, "originalPrice": 3499, "rating": 4.7, "reviews": 398,
+    "stock": 35, "badge": "",
+    "description": "Ultrasonic cool mist diffuser with 7 ambient LED colors. Includes 6 premium essential oil bottles.",
+    "features": ["500ml Tank", "7 LED Colors", "Auto Shut-off", "6 Oils Included", "Whisper Quiet"],
+    "color": "#a78bfa"
+  }
+]
